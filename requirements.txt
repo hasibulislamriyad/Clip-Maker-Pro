@@ -1,0 +1,4 @@
+imageio-ffmpeg
+pillow
+# optional, only for auto captions
+faster-whisper
